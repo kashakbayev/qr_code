@@ -12,6 +12,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     margin-bottom: 30px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
 }
 
 .qr {
