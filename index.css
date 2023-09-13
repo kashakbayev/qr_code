@@ -4,11 +4,12 @@ body {
 
 .main {
     background-color: aliceblue;
-    width: 350px;
-    height: 500px;
-    border-radius: 10px;
+    width: 300px;
+    height: 450px;
+    border-radius: 20px;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    margin-bottom: 10px;
 }
