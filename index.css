@@ -3,7 +3,7 @@ body {
 }
 
 .main {
-    background-color: aliceblue;
+    background-color: white;
     width: 300px;
     height: 450px;
     border-radius: 20px;
@@ -12,4 +12,12 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     margin-bottom: 30px;
+}
+
+.qr {
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    background-color: blue;
+    margin: 25px;
 }
