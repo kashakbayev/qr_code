@@ -15,9 +15,9 @@ body {
 }
 
 .qr {
-    width: 250px;
+    width: 270px;
     height: 250px;
     border-radius: 20px;
     background-color: blue;
-    margin: 25px;
+    margin: 15px;
 }
